@@ -1,0 +1,13 @@
+{
+    "Cookies": {
+        "Antiforgery": ".FileUpload-Stage-Token",
+        "Auth": ".FileUpload-Stage-Auth",
+        "TempData": ".FileUpload-Stage-Temp",
+        "Session": ".FileUpload-Stage-Session"
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Warning"
+        }
+    }
+}

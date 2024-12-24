@@ -1,0 +1,12 @@
+/src/FileUpload.Web/wwwroot/css/**/*.min.css
+/src/FileUpload.Web/wwwroot/js/**/*.min.js
+/src/FileUpload.Web/node_modules/
+
+/src/FileUpload.Web/Logs/
+.vscode/
+.vs/
+bin/
+obj/
+
+*.user
+*.suo
